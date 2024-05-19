@@ -1,1 +1,1 @@
-Little template for dark/light mode switch using ReactContext
+Dark/Light mode switcher using ReactContext
