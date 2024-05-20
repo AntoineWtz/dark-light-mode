@@ -12,6 +12,8 @@ This project is a simple example of a React application that implements a toggle
 
 ## Description
 
+The application uses React Context to manage the theme (light or dark) and a toggle switch to change between the themes.
+
 1. src/ThemeContext.js: Contains the ReactContext and provider for the theme.
 2. src/App.js: The main application component that uses the theme context.
 
