@@ -19,7 +19,7 @@ The application uses React Context to manage the theme (light or dark) and a tog
 
 ## Demo
 
-
+https://antoinewtz.github.io/dark-light-mode/
 
 ## Technologies Used
 
